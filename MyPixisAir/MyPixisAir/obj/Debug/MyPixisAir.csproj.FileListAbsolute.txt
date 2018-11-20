@@ -1,0 +1,12 @@
+d:\users\1312152\source\repos\MyPixisAir\MyPixisAir\bin\Debug\MyPixisAir.exe.config
+d:\users\1312152\source\repos\MyPixisAir\MyPixisAir\bin\Debug\MyPixisAir.exe
+d:\users\1312152\source\repos\MyPixisAir\MyPixisAir\bin\Debug\MyPixisAir.pdb
+d:\users\1312152\source\repos\MyPixisAir\MyPixisAir\obj\Debug\MyPixisAir.csprojResolveAssemblyReference.cache
+d:\users\1312152\source\repos\MyPixisAir\MyPixisAir\obj\Debug\MyPixisAir.Properties.Resources.resources
+d:\users\1312152\source\repos\MyPixisAir\MyPixisAir\obj\Debug\MyPixisAir.csproj.GenerateResource.Cache
+d:\users\1312152\source\repos\MyPixisAir\MyPixisAir\obj\Debug\MyPixisAir.csproj.CoreCompileInputs.cache
+d:\users\1312152\source\repos\MyPixisAir\MyPixisAir\obj\Debug\MyPixisAir.exe
+d:\users\1312152\source\repos\MyPixisAir\MyPixisAir\obj\Debug\MyPixisAir.pdb
+d:\users\1312152\source\repos\MyPixisAir\MyPixisAir\bin\Debug\IBM.Data.DB2.iSeries.dll
+d:\users\1312152\source\repos\MyPixisAir\MyPixisAir\bin\Debug\IBM.Data.DB2.iSeries.xml
+D:\Users\1312152\source\repos\MyPixisAir\MyPixisAir\obj\Debug\MyPixisAir.EmpWorkOrd.resources
